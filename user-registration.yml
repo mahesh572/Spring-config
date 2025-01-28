@@ -9,11 +9,7 @@ user:
     - 8897978357
     - 8187030639
 
-spring:
-  application:
-    name: user-registration
-  profiles:
-    active: "dev"
+
     
   jpa:
     hibernate:
