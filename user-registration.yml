@@ -16,7 +16,7 @@ user:
       ddl-auto: update
     show-sql: true
   datasource:
-    url: jdbc:mysql://localhost:3306/spring
+    url: jdbc:mysql://${MY_SQL_HOST:localhost}:3306/spring
     username: root
     password: root
 #  autoconfigure:
