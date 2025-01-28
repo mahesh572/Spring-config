@@ -4,7 +4,7 @@ server:
 build:
   version: "1.0"
 user:
-  message: "Welcome to User related Prod APIs "
+  message: "Welcome to User related Production APIs "
   contactDetails:
     name: "Mahesh Gade - Developer"
     email: "maheshgaade572@gmail.com"
