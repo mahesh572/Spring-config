@@ -12,8 +12,7 @@ user:
 spring:
   application:
     name: products
-  profiles:
-    active: "prod"
+  
     
   jpa:
 #    database-platform: org.hibernate.dialect.MySQLDialect
